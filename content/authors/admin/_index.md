@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Michelle Benson
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor of Political Science
 
 # Organizations/Affiliations
 organizations:
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Michelle A. Benson is an associate professor in the Department of Political Science at the University at Buffalo. Her recent work focuses on the effects of the United Nations on civil war (including sexual violence and conflict outcomes).  Her earlier work focused on state to state ties and international conflict, trade and international conflict, intergovernmental organizations and international conflict, and the role of social capital in domestic conflict processes. Her work has been published in the Journal of Conflict Resolution, Journal of Politics, Comparative Political Studies, the Journal of Peace Research, International Interactions, Social Science Quarterly, Conflict Management and Peace Science, Nationalism and Ethnic Politics, and the Journal of Political Science. 
