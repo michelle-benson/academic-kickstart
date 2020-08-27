@@ -14,28 +14,28 @@ role: Associate Professor of Political Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University at Buffalo, SUNY
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include international and domestic conflict.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- United Nations Peacekeeping
+- Domestic Conflict
+- Conflict Processes
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Political Science
+    institution: Claremont University
+    year: 1999
+  - course: M.A. in Sciences Politiques 
+    institution: Universite de Grenoble
+    year: 1994
+  - course: BA in Political Science
+    institution: UC Davis
+    year: 1993
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
