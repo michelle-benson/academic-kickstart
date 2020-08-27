@@ -30,12 +30,15 @@ education:
   - course: PhD in Political Science
     institution: Claremont University
     year: 1999
-  - course: M.A. in Sciences Politiques 
-    institution: Universite de Grenoble
-    year: 1994
-  - course: BA in Political Science
-    institution: UC Davis
+  - course: MA in Politial Science
+    institution: Claremont University
+    year: 1994   
+  - course: Diplome d'Etudes Approfondies 
+    institution: Universite Pierre Mendes France
     year: 1993
+  - course: BA in Political Science
+    institution: University of California, Davis
+    year: 1992
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,10 +53,10 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=EDMy2FgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/michelle-benson
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,13 +64,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mbenson2@buffalo.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 Michelle A. Benson is an associate professor in the Department of Political Science at the University at Buffalo. Her recent work focuses on the effects of the United Nations on civil war (including sexual violence and conflict outcomes).  Her earlier work focused on state to state ties and international conflict, trade and international conflict, intergovernmental organizations and international conflict, and the role of social capital in domestic conflict processes. Her work has been published in the Journal of Conflict Resolution, Journal of Politics, Comparative Political Studies, the Journal of Peace Research, International Interactions, Social Science Quarterly, Conflict Management and Peace Science, Nationalism and Ethnic Politics, and the Journal of Political Science. 
