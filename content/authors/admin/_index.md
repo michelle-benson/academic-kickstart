@@ -33,7 +33,7 @@ education:
   - course: MA in Politial Science
     institution: Claremont University
     year: 1994   
-  - course: Diplome d'Etudes Approfondies 
+  - course: Dipl\^{o}me d'Etudes Approfondies 
     institution: Universite Pierre Mendes France
     year: 1993
   - course: BA in Political Science
@@ -73,4 +73,4 @@ email: "mbenson2@buffalo.edu"
 #- Visitors
 ---
 
-Michelle A. Benson is an associate professor in the Department of Political Science at the University at Buffalo. Her recent work focuses on the effects of the United Nations on civil war (including sexual violence and conflict outcomes).  Her earlier work focused on state to state ties and international conflict, trade and international conflict, intergovernmental organizations and international conflict, and the role of social capital in domestic conflict processes. Her work has been published in the Journal of Conflict Resolution, Journal of Politics, Comparative Political Studies, the Journal of Peace Research, International Interactions, Social Science Quarterly, Conflict Management and Peace Science, Nationalism and Ethnic Politics, and the Journal of Political Science. 
+Michelle A. Benson is an associate professor in the Department of Political Science at the University at Buffalo. Her recent work focuses on the effects of the United Nations on civil war (including sexual violence and conflict outcomes).  Her earlier work focused on state to state ties and international conflict, trade and international conflict, intergovernmental organizations and international conflict, and the role of social capital in domestic conflict processes. Her work has been published in the *Journal of Conflict Resolution, Journal of Politics, Comparative Political Studies,* the *Journal of Peace Research, International Interactions, Social Science Quarterly, Conflict Management and Peace Science, Nationalism and Ethnic Politics,* and the *Journal of Political Science*. 
