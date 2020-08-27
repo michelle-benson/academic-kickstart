@@ -22,6 +22,11 @@
   name = "Publications"
   url = "#featured"
   weight = 40
+  
+[[main]]
+  name = "Publications" # Title of the link.
+  url = "publciation/" # Widget Page folder name.
+  weight = 50 # Position of the link in the navigation bar.  
 
 [[main]]
   name = "Contact"
