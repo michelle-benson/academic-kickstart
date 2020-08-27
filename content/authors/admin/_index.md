@@ -33,8 +33,8 @@ education:
   - course: MA in Politial Science
     institution: Claremont University
     year: 1994   
-  - course: Dipl\^{o}me d'Etudes Approfondies 
-    institution: Universite Pierre Mendes France
+  - course: Diplôme d'études approfondies 
+    institution: Université Pierre Mendès France
     year: 1993
   - course: BA in Political Science
     institution: University of California, Davis
