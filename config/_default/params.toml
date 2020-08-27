@@ -100,7 +100,7 @@ address = {street = "513 Park Hall", city = "Buffalo", region = "NY", postcode =
 coordinates = {latitude = "42.999943", longitude = "-78.788072"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Take stairs or elevator to 5th floor Park Hall"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
