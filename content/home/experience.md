@@ -22,8 +22,25 @@ date_format = "Jan 2006"
   company = "University at Buffalo, SUNY"
   company_url = ""
   location = "Buffalo, NY"
-  date_start = "1999-08-31"
+  date_start = "2009-07-01"
   date_end = ""
+
+[[experience]]
+  title = "Assistant Professor"
+  company = "University at Buffalo, SUNY"
+  company_url = ""
+  location = "Buffalo, NY"
+  date_start = "2001-08-01"
+  date_end = "2009-06-30"
+
+  [[experience]]
+  title = "Visiting Assistant Professor"
+  company = "University at Buffalo, SUNY"
+  company_url = ""
+  location = "Buffalo, NY"
+  date_start = "1999-08-31"
+  date_end = "2009-07-31"
+  
 # description = """
 # Responsibilities include:  
  # * Analysing
