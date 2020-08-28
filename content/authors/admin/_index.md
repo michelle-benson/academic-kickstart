@@ -33,10 +33,10 @@ interests:
 education:
   courses:
   - course: PhD in Political Science
-    institution: Claremont University
+    institution: Claremont Graduate University
     year: 1999
   - course: MA in Politial Science
-    institution: Claremont University
+    institution: Claremont Graduate University
     year: 1994   
   - course: Diplôme d'études approfondies 
     institution: Université Pierre Mendès France
