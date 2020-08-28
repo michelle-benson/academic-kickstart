@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   company = "University at Buffalo, SUNY"
   company_url = ""
   location = "Buffalo, NY"
-  date_start = "2001-08-01"
+  date_start = "2001-07-01"
   date_end = "2009-06-30"
 
   [[experience]]
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Buffalo, NY"
   date_start = "1999-08-31"
-  date_end = "2009-07-31"
+  date_end = "2009-06-30"
   
 # description = """
 # Responsibilities include:  
