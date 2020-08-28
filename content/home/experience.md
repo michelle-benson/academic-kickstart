@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Associate Professor"
-  description = "Department of Political Science"
+  department = "Department of Political Science"
   company = "University at Buffalo, SUNY"
   company_url = ""
   location = "Buffalo, NY"
