@@ -21,12 +21,19 @@
 #[[main]]
 #  name = "Featured Pubs"
 #  url = "#featured"
-#  weight = 40
+#  weight = 30
 
 [[main]]
   name = "Publications" # Title of the link.
   url = "publication/" # Widget Page folder name.
-  weight = 50 # Position of the link in the navigation bar.
+  weight = 40 # Position of the link in the navigation bar.
+
+
+[[menu.main]]
+  name = "Teaching"
+  url = "teaching/"
+  weight = 50
+
 
 [[main]]
   name = "Contact"
