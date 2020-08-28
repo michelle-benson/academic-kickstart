@@ -25,14 +25,13 @@ date_format = "Jan 2006"
   date_start = "1999-08-31"
   date_end = ""
   #description = """
-  #Responsibilities include:
-  
+  #Responsibilities include:  
  # * Analysing
  # * Modelling
  # * Deploying
-  """
+ # """
 
-#[[experience]]
+# [[experience]]
 #
 #  company = "University X"
 #  company_url = ""
