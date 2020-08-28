@@ -21,58 +21,22 @@ view: 3
 
 ---
 
+## Fall 2020 Courses
 
-<h2>University of Oregon Linguistics Department</h2>
+I am teaching the following classes this semester:
 
-_[Linguistics Department](https://linguistics.uoregon.edu/)_
+* PSC 647 - Introduction Organization
+* PSC 408 - Basic Statistics
 
-+ Language and Power, LING 201 – Teaching Assistant (Spring ‘17)
-+ Structure of English Words, LING 150 – Teaching Assistant
-(Spring ‘16)
-+ Structure of English Words, LING 150 – Teaching Assistant
-(Winter ‘16)
-+ Structure of English Words, LING 150 – Teaching Assistant
-(Fall ‘15)
-+ Intro. to Linguistic Analysis, LING 301 – Teaching Assistant (Spring ‘13)
-+ Structure of English Words, LING 150 –  Instructor of Record (Winter ‘13)
-+ Morphology and Syntax, LING 435/535 – Teaching Assistant (Fall ‘12)
+## Prior Courses
+I have had the opportunity to teach a variety of different classes. Below are those I have taught in previous semesters:
 
-<h2>American English Institute, University of Oregon</h2>
-
-_[Intensive English Program (IEP)](https://aei.uoregon.edu/programs/intensive)_
-
-+ Listening and Note taking, Level 4  – Instructor of Record  (Winter ‘18)
-+ Listening and Note taking, Level 4  – Instructor of Record (Fall ‘17)
-+ Oral Communication Skills, Level 6  – Instructor of Record (Spring ‘15)
-+ Oral Communication Skills, Level 6  – Instructor of Record (Winter ‘15)
-+ Oral Communication Skills, Level 6  – Instructor of Record (Fall ‘14)
-+ Oral Communication Skills, Level 2  –  Instructor of Record (Winter ‘14)
-
-<h2>American English Institute, University of Oregon</h2>
-
-_[Academic English for International Students (AEIS)](https://aei.uoregon.edu/programs/undergraduate/current-courses)_
-
-+ Intro. to Academic Writing, AEIS 110 – Instructor of Record (Spring ‘14)
-+ Intro. to Academic Writing, AEIS 110 – Instructor of Record (Fall ‘13)
-
-<h2>University of North Dakota Linguistics Program</h2>
-
-_[Summer Institute of Linguistics Program](https://arts-sciences.und.edu/summer-institute-of-linguistics/)_
-
-+ Tone Analysis, LING 513 – Teaching Assistant (Summer ‘13)
-+ Linguistic Field Methods, LING 506  –  Instructor (Summer ‘10)
-+ Linguistic Field Methods, LING 506  –  Instructor (Summer ‘09)
-+ Linguistic Field Methods, LING 506  –  Teaching Assistant (Summer ‘08)
-+ Syntax and Morphology I, LING 452 –  Teaching Assistant (Summer ‘05)
-
-<h2>Payap University Graduate Linguistics Department, Chiang Mai, Thailand</h2>
-
-_[Graduate Linguistics Department](https://inter.payap.ac.th/international-graduate/linguistics-ma/)_
-
-+ Semantics, LING 607 – Visiting Instructor (Fall ‘07)
-
-<h2>Virginia Commonwealth University, Richmond, VA</h2>
-
-_[English Language Program, Office of International Education](https://global.vcu.edu/elp/)_
-
-+ Tudor – Pronunciation Coach (Summer ‘04)
+* PSC 102 - Introduction to International Relations
+* PSC 103 - Introduction to Comparative Politics
+* PSC 330 - Problems in International Relations
++ [PSC 326 - War and International Security](http://www.acsu.buffalo.edu/~mbenson2/PSC326.htm)   
+*  [PSC 408 - Basic Statistics (undergraduate)](http://www.acsu.buffalo.edu/~mbenson2/PSC408.htm)
+* [PSC 500 - Introduction to Political Inquiry](http://www.acsu.buffalo.edu/~mbenson2/PSC500.htm)
+* [PSC 647 - International Organization]( http://www.acsu.buffalo.edu/~mbenson2/PSC647.htm)
+* PSC 508 - Graduate Statistics (graduate) 
+* [PSC 531 - Intermediate Statistics (graduate)]( http://www.acsu.buffalo.edu/~mbenson2/PSC531.htm)
