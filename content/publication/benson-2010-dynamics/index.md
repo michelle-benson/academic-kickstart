@@ -14,6 +14,30 @@ lastmod: 2020-08-27T15:59:53-04:00
 featured: false
 draft: false
 
+# COMMENT OUT THE FOLLOWING LINE IN ORDER TO ACTIVATE THE LINK BUTTONS
+# CTRL - ALT - ? IN ORDER TO SEE ALL CHROMEBOOK SHORTCUTS
+# ALT - SEARCH TO TOGGLE CAPS LOCK
+#links: '/'
+# links:
+# - name: ""
+#   url: ""
+
+
+#UNCOMMENTING THE FOLLOWING THREE LINES WILL CREATE A CUSTOM BUTTON LINK
+#links:
+#- name: Custom Link
+#  url: http://example.org
+  
+url_pdf: http://contentiouspolitics.social-metrics.org/media/BJPS.pdf
+url_code: ''
+url_dataset: 'http://contentiouspolitics.social-metrics.org'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
