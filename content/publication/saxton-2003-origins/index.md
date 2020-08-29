@@ -15,6 +15,25 @@ lastmod: 2020-08-27T15:59:52-04:00
 featured: false
 draft: false
 
+
+#UNCOMMENTING THE FOLLOWING THREE LINES WILL CREATE A CUSTOM BUTTON LINK
+#links:
+#- name: Custom Link
+#  url: http://example.org
+  
+url_pdf: http://www.acsu.buffalo.edu/~mbenson2/papers/The%20Origins%20of%20Socially%20and%20Politically%20Hostile%20Attitudes.pdf
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+
+
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

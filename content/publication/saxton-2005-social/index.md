@@ -14,6 +14,23 @@ lastmod: 2020-08-27T15:59:53-04:00
 featured: false
 draft: false
 
+
+#UNCOMMENTING THE FOLLOWING THREE LINES WILL CREATE A CUSTOM BUTTON LINK
+#links:
+#- name: Custom Link
+#  url: http://example.org
+  
+url_pdf: http://www.acsu.buffalo.edu/~mbenson2/papers/Social%20Capital%20and%20the%20Growth%20of%20the%20Nonprofit%20Sector.pdf
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
