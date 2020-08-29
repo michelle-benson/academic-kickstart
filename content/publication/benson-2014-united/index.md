@@ -32,5 +32,5 @@ publishDate: '2020-08-27T19:59:54.440214Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*The Journal of Politics*'
+publication: '*Journal of Politics*'
 ---

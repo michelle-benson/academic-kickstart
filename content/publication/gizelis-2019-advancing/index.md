@@ -32,5 +32,5 @@ publishDate: '2020-08-27T19:59:53.432580Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*Journal of conflict resolution*'
+publication: '*Journal of Conflict Resolution*'
 ---
