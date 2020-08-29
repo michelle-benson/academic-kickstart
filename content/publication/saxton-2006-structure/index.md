@@ -51,5 +51,5 @@ publication_types:
 publication: '*Nationalism and Ethnic Politics*'
 url_pdf: 'https://doi.org/10.1080/13537110600734653'
 doi: 10.1080/13537110600734653
-volume: 12
+volume: '12'
 ---
