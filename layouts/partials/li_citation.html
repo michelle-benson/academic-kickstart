@@ -14,9 +14,10 @@
   {{ else if .Params.publication }}
   {{- .Params.publication | markdownify -}}.
   {{ end }}
-  {{ .Title }}
-  {{ , Volume }}
-  {{ volume }}
+  {{ .Params.Title }}
+  {{ , .Params.Volume }}
+  {{ .Params.volume }}
+  
   <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
 
   {{/* MLA Style */}}
