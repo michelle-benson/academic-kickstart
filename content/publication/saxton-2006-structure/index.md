@@ -47,13 +47,7 @@ projects: []
 publishDate: '2020-08-29T15:00:51.610372Z'
 publication_types:
 - 2
-abstract: ' This article presents an integrated model of contentious nationalist activity,
-  with structure, politics, and action assuming equal roles in an interdependent causal
-  system. The model is tested using simultaneous equation systems on 130 ethno-nationalist
-  groups from 1990 to 1998. The results confirm the vital, indirect role of grievances
-  and group identity on protest and the powerful direct and indirect effects of political
-  opportunity structure variables on protest and rebellion. Repression is shown to
-  have a particularly escalatory impact on the conflict process. '
+#abstract: ' This article presents an integrated model of contentious nationalist activity, with structure, politics, and action assuming equal roles in an interdependent causal system. The model is tested using simultaneous equation systems on 130 ethno-nationalist groups from 1990 to 1998. The results confirm the vital, indirect role of grievances and group identity on protest and the powerful direct and indirect effects of political opportunity structure variables on protest and rebellion. Repression is shown to have a particularly escalatory impact on the conflict process. '
 publication: '*Nationalism and Ethnic Politics*'
 url_pdf: '  https://doi.org/10.1080/13537110600734653 '
 doi: 10.1080/13537110600734653
