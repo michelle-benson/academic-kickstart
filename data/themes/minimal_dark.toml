@@ -3,7 +3,7 @@ name = "Minimal_Dark"
 
 # Is theme light or dark?
 #light = true
-dark = true
+#dark = true
 
 # Primary
 primary = "#2962ff"
