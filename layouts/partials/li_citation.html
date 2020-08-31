@@ -16,6 +16,8 @@
   {{- .Params.publication | markdownify -}}.
   {{ end }}
 
+  {{ .Title }}
+
   <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
 
   {{/* MLA Style */}}
