@@ -49,6 +49,6 @@ publication_types:
 - 2
 abstract: ''
 publication: '*Journal of Peace Research*'
- pages: '659--676'
- volume: '41'
+pages: '659-676'
+volume: '41'
 ---
