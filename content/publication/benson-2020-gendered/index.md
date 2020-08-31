@@ -34,4 +34,6 @@ publication_types:
 - 2
 abstract: ''
 publication: '*Journal of Conflict Resolution*'
+volume: '64'
+pages: '167--198'
 ---
