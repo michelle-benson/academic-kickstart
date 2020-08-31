@@ -8,9 +8,11 @@
     {{ partial "page_metadata_authors" . }}
   </span>
   ({{- .Date.Format "2006" -}}).
+
+  {{ if strings.HasSuffix .Title "?" }}
+  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  {{ else }}
   <a href="{{ .RelPermalink }}">{{ .Title }}</a>.
-
-
 
 
 <!-- I ADDED THIS IF STATEMENT AND MOVED THE PUBLICATION IF/ELSE STATEMENTS TWICE -->
