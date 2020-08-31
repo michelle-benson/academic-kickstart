@@ -17,7 +17,7 @@
   {{ end }}
 
   {{ if .Params.Volume }}
-  {{ .Params.Volume }}, {{ .Params.Pages }}
+  {{- .Params.Volume | markdownify -}}, {{ .Params.Pages }}
   {{ end }}
 
   <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
