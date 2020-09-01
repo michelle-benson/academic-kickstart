@@ -34,4 +34,6 @@ publication_types:
 - 2
 abstract: ''
 publication: '*Comparative Political Studies*'
+pages: '435-457'
+volume: '37'
 ---

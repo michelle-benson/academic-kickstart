@@ -50,4 +50,6 @@ publication_types:
 - 2
 abstract: ''
 publication: '*Social Science Quarterly*'
+pages: '16-35'
+volume: '86'
 ---

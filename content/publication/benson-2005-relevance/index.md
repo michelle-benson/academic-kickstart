@@ -50,4 +50,6 @@ publication_types:
 - 2
 abstract: ''
 publication: '*Conflict Management and Peace Science*'
+pages: '113-133'
+volume: '22'
 ---

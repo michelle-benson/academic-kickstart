@@ -33,4 +33,6 @@ publication_types:
 - 2
 abstract: ''
 publication: '*Journal of Politics*'
+pages: '350-363'
+volume: '76'
 ---
