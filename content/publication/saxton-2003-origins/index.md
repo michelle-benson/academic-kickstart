@@ -53,4 +53,6 @@ publication_types:
 - 2
 abstract: ''
 publication: '*Journal of Political Science*'
+pages: '101-137'
+volume: '31'
 ---

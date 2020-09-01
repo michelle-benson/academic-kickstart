@@ -57,4 +57,6 @@ publication_types:
 - 2
 abstract: ''
 publication: '*British Journal of Political Science*'
+pages: '305-331'
+volume: '40'
 ---

@@ -32,4 +32,6 @@ publication_types:
 - 2
 abstract: ''
 publication: '*International Interactions*'
+pages: '211-215'
+volume: '33'
 ---
