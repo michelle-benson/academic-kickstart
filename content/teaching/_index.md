@@ -25,7 +25,7 @@ view: 3
 
 I am teaching the following classes this semester:
 
-* PSC 647 - Introduction Organization
+* PSC 508 - Graduate Statistics
 * PSC 408 - Basic Statistics
 
 ## Prior Courses
