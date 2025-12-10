@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Punching Before the Bell Rings: United Nations Signaling and Pre-Deployment Violence in Civil
-Wars
+title: "Punching Before the Bell Rings: United Nations Signaling and Pre-Deployment Violence in Civil
+Wars"
 
 
 
