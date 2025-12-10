@@ -1,15 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: The importance of UN Security Council resolutions in peacekeeping operations
+title: Punching Before the Bell Rings: United Nations Signaling and Pre-Deployment Violence in Civil
+Wars
 
 
 
 subtitle: ''
 summary: ''
 authors:
-- Michelle Benson
 - Jacob Kathman
+- Michelle Benson
 - Paul Diehl
 tags: []
 categories: []
