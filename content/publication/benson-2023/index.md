@@ -38,6 +38,6 @@ publication_types:
 - 2
 abstract: ''
 publication: '*International Studies Quarterly*'
-#pages: 'sqad038'
+pages: 'sqad038'
 volume: '67'
 ---
