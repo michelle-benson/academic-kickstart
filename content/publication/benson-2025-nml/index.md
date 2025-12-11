@@ -12,9 +12,9 @@ authors:
 - Michelle Benson
 - Chao Guo
 - Daniel G. Neely
-- Ahmed, Tahmina
-- Hasan, Mohammad Maruf
-- Zhang, Shujie
+- Tahmina Ahmed
+- Mohammad Maruf Hasan
+- Shujie Zhang
 
 
 tags: []
