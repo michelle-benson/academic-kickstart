@@ -21,7 +21,7 @@ view: 3
 
 ---
 
-## Fall 2020 Courses
+## Current Courses
 
 I am teaching the following classes this semester:
 
