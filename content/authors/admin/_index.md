@@ -35,7 +35,7 @@ education:
   - course: PhD in Political Science
     institution: Claremont Graduate University
     year: 1999
-  - course: MA in Politial Science
+  - course: MA in International Political Economy
     institution: Claremont Graduate University
     year: 1994   
   - course: Diplôme d'études approfondies 
