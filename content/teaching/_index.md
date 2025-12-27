@@ -26,7 +26,12 @@ view: 3
 I am teaching the following classes this semester:
 
 * PSC 508 - Graduate Statistics
-* PSC 408 - Basic Statistics
+* PSC 332 - International Organizations
+
+During winter break I teach two study abroad courses:
+
+* PSC 334 - Model European Union (in Brussels)
+* PSC 349 - Revolution and Protest in France (in Paris) 
 
 ## Prior Courses
 I have had the opportunity to teach a variety of different classes. Below are those I have taught in previous semesters:
