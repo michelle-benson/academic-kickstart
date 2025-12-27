@@ -21,12 +21,11 @@ organizations:
 bio: My research interests include international and domestic conflict.
 
 interests:
-- The International status quo and conflict
+- International security and defense
+- Effectiveness of United Nations peacekeeping
 - IGOs and conflict
 - Trade and conflict
-- Determinants of ethnic conflict
-- United Nations peacekeeping
-- Domestic conflict
+- Sexual violence in civil wars
 - Conflict processes
 
 
