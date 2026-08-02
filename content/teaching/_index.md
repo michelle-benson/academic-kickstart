@@ -23,14 +23,13 @@ view: 3
 
 ## Current Courses
 
-I am teaching the following classes this semester:
+I am teaching the following classes in the fall 2026 semester:
 
 * PSC 508 - Graduate Statistics
-* PSC 332 - International Organizations
+* PSC 334 - Model European Union
 
-During winter break I teach two study abroad courses:
+During winter break I will teach a study abroad course:
 
-* PSC 334 - Model European Union (in Brussels)
 * PSC 349 - Revolution and Protest in France (in Paris) 
 
 ## Prior Courses
@@ -39,6 +38,8 @@ I have had the opportunity to teach a variety of different classes. Below are th
 * PSC 102 - Introduction to International Relations
 * PSC 103 - Introduction to Comparative Politics
 * PSC 330 - Problems in International Relations
+* PSC 332 - International Organizations
+* PSC 334 - Model European Union (in Brussels)
 * [PSC 326 - War and International Security](http://www.acsu.buffalo.edu/~mbenson2/PSC326.htm)   
 *  [PSC 408 - Basic Statistics (undergraduate)](http://www.acsu.buffalo.edu/~mbenson2/PSC408.htm)
 * [PSC 500 - Introduction to Political Inquiry](http://www.acsu.buffalo.edu/~mbenson2/PSC500.htm)
