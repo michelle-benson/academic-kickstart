@@ -1,26 +1,21 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Linking environmental health and civic health: An analysis of air pollution and charitable giving"
+title: "UN peacekeeping, Militarization and Women’s Empowerment in Post-Conflict Societies"
 
 
 
 subtitle: ''
 summary: ''
 authors:
-- Gregory D. Saxton
 - Michelle Benson
-- Chao Guo
-- Daniel G. Neely
-- Tahmina Ahmed
-- Mohammad Maruf Hasan
-- Shujie Zhang
+- Theodora-Ismene Gizelis
 
 
 tags: []
 categories: []
-date: '2025-09-01'
-lastmod: 2023-01-27T15:59:54-04:00
+date: '2026-08-02'
+lastmod: 2026-08-02T00:00:00-04:00
 featured: false
 draft: false
 
@@ -38,11 +33,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-03-27T19:59:53.937437Z'
+publishDate: '2026-08-02T00:00:00Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*Nonprofit Management & Leadership*'
-volume: 'online before print'
-pages: 'DOI: 10.1002/nml.70029 '
+publication: '*Cooperation and Conflict*'
+volume: 'forthcoming'
+pages: ''
 ---
