@@ -44,5 +44,5 @@ publication_types:
 abstract: ''
 publication: '*Nonprofit Management & Leadership*'
 volume: 'online before print'
-pages: 'DOI: 10.1002/nml.70029'
+pages: 'DOI: 10.1002/nml.70029 '
 ---
