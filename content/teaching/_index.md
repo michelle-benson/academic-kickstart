@@ -39,10 +39,8 @@ I have had the opportunity to teach a variety of different classes. Below are th
 * PSC 103 - Introduction to Comparative Politics
 * PSC 330 - Problems in International Relations
 * PSC 332 - International Organizations
-* PSC 334 - Model European Union (in Brussels)
 * [PSC 326 - War and International Security](http://www.acsu.buffalo.edu/~mbenson2/PSC326.htm)   
-*  [PSC 408 - Basic Statistics (undergraduate)](http://www.acsu.buffalo.edu/~mbenson2/PSC408.htm)
+* [PSC 408 - Basic Statistics (undergraduate)](http://www.acsu.buffalo.edu/~mbenson2/PSC408.htm)
 * [PSC 500 - Introduction to Political Inquiry](http://www.acsu.buffalo.edu/~mbenson2/PSC500.htm)
 * [PSC 647 - International Organization]( http://www.acsu.buffalo.edu/~mbenson2/PSC647.htm)
-* PSC 508 - Graduate Statistics (graduate) 
-* [PSC 531 - Intermediate Statistics (graduate)]( http://www.acsu.buffalo.edu/~mbenson2/PSC531.htm)
+* [PSC 531 - Intermediate Statistics]( http://www.acsu.buffalo.edu/~mbenson2/PSC531.htm)
